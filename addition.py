@@ -8,3 +8,4 @@ sum=num1+num2
 print("result",sum)
 print("hello")
 print("welcome")
+print("hai")
